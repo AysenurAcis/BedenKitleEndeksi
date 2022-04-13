@@ -1,0 +1,8 @@
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe.config
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.pdb
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.AssemblyReference.cache
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.exe
+C:\Users\aysen\OneDrive\Masaüstü\C#\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.pdb
